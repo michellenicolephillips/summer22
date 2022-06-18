@@ -1,5 +1,32 @@
 * {
      font-family: Arial, Helvetica, sans-serif;
-     color: blue;
-     font-size: 1em;
+     color: #ffffff;
+     margin: auto;
+     padding: auto;
+}
+body {
+     background-color: #49816c;
+     text-align: center;
+}
+#navbar {
+     text-align: left;
+     background-color: #504981;
+     width: 100%;
+}
+#navbar li {
+     display: inline-block;
+     padding: 1em;
+     list-style-type: none;
+}
+nav li a:hover {
+     color: #7a8149;
+}
+h1 {
+     margin: 1em;
+     color:  #81495e;
+     text-align: center;
+}
+p {
+     text-align: left;
+     margin: 3em;
 }
